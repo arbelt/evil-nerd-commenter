@@ -3,6 +3,8 @@
 
 (package-file "evil-nerd-commenter-pkg.el")
 
+(files ("*.el"))
+
 (development
  (depends-on "f")
  (depends-on "ecukes")
