@@ -5,8 +5,6 @@
 
 (package-file "evil-nerd-commenter.el")
 
-(files ("*.el"))
-
 (development
  (depends-on "f")
  (depends-on "ecukes")
